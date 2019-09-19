@@ -32,4 +32,4 @@ As credenciais de acesso devem ser as mesmas credenciais utilizadas na página d
 ![Sensor GreenCard](https://github.com/dougbaptista/custom_components/blob/master/screenshots/green_card.jpg?raw=true)
 
 ## Créditos - Credits
-- [@willsilvano]https://github.com/willsilvano - Por realizar toda lógica de consultar as informações do site, só adaptei para criar um sensor no HA.
+- [@willsilvano](https://github.com/willsilvano) - Por realizar toda lógica de consultar as informações do site, só adaptei para criar um sensor no HA.
