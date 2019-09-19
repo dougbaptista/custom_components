@@ -19,12 +19,14 @@ NOTE: This component only works for people using the "Green Card" card system (h
 ### Utilizar - Usage
 Para usar esse componente em sua instalação, adicione o seguinte código no seu arquivo configuration.yaml:
 
-# Example configuration.yaml entry
+#### Exemplo configuration.yaml - Example configuration.yaml entry
 
+```
 sensor:
   - platform: green_card
     name: Saldo GreenCard
     cpf: "000.000.000-00"  
     senha: Coloque sua senha aqui
-    
+```
+
 As credenciais de acesso devem ser as mesmas credenciais utilizadas na página de autenticação do site Green Card (https://www.grupogreencard.com.br/sysweb/site/loga_usuario) 
