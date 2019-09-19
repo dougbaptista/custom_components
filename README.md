@@ -1,4 +1,4 @@
-# custom_components
+# Home Assistant Custom Components
 Custom components for home assistant (Componentes personalizados para o Home Assistant)
 
 Some of my custom components for home-assistant. (http://www.home-assistant.io)
