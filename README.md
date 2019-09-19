@@ -13,6 +13,13 @@ Componentes personalizados para o Home Assistant
 - Configure um sensor com a configuração abaixo.
 - Reinicie p Home Assistant.
 
+Deve ficar semelhante a estrutura abaixo após a instalação:
+.homeassistant/
+|-- custom_components/
+|   |-- green_card/
+|       |-- __init__.py
+|       |-- sensor.py
+
 ### Utilizar - Usage
 Para usar esse componente em sua instalação, adicione o seguinte código no seu arquivo configuration.yaml:
 
