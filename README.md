@@ -7,8 +7,8 @@ Some of my custom components for home-assistant. (http://www.home-assistant.io)
 - Green Card component
 
 ## Green Card
-NOTA: Esse componente funciona apenas para pessoas que utilizam o sistema de cartão "Green Card" (https://www.grupogreencard.com.br/)
-NOTE: This component only works for people using the "Green Card" card system (https://www.grupogreencard.com/)
+> NOTA: Esse componente funciona apenas para pessoas que utilizam o sistema de cartão "Green Card" (https://www.grupogreencard.com.br/)
+> NOTE: This component only works for people using the "Green Card" card system (https://www.grupogreencard.com/)
 
 ### Instalação - Installation
 
@@ -19,7 +19,7 @@ NOTE: This component only works for people using the "Green Card" card system (h
 ### Utilizar - Usage
 Para usar esse componente em sua instalação, adicione o seguinte código no seu arquivo configuration.yaml:
 
-#### Exemplo configuration.yaml - Example configuration.yaml entry
+#### Exemplo de configuração configuration.yaml - Example configuration.yaml entry
 
 ```
 sensor:
@@ -29,4 +29,4 @@ sensor:
     senha: Coloque sua senha aqui
 ```
 
-As credenciais de acesso devem ser as mesmas credenciais utilizadas na página de autenticação do site Green Card (https://www.grupogreencard.com.br/sysweb/site/loga_usuario) 
+As credenciais de acesso devem ser as mesmas credenciais utilizadas na página de autenticação do site [Green Card - Login](https://www.grupogreencard.com.br/sysweb/site/loga_usuario) 
